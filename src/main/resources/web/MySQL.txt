@@ -1,0 +1,4 @@
+Port: 3306
+Windows Service Name: MYSQL
+User name: root
+Password: root
